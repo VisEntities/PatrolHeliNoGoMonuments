@@ -13,7 +13,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Patrol Heli No Go Monuments", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Prevents the patrol helicopter from flying over specific monuments.")]
     public class PatrolHeliNoGoMonuments : RustPlugin
     {
         #region Fields
